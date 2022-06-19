@@ -1,4 +1,5 @@
 # Sketchy Site Check
+
 This is a list of sites that you can use to check to see if a URL or a file that you are unsure about is safe.
 
 - https://www.urlvoid.com/
